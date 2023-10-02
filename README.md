@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @narthana7
-- I am very much interested in joining the club and i can be an active learner of things
-- my goals for the next six months would be exploring different things in cs field,learning new languages
-- my contribution to the club will be
